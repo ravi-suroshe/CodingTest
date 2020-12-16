@@ -10,7 +10,7 @@ Given a string of text in a tag-based language, parse this text and retrieve the
 Input Format
 The first line of input contains a single integer,  (the number of lines).
 The  subsequent lines each contain a line of text.
-Constraints
+## Constraints
 * Each line contains a maximum of  printable characters.
 * The total number of characters in all test cases will not exceed .
 Output Format
