@@ -11,8 +11,8 @@ Input Format
 The first line of input contains a single integer,  (the number of lines).
 The  subsequent lines each contain a line of text.
 Constraints
-•	Each line contains a maximum of  printable characters.
-•	The total number of characters in all test cases will not exceed .
+* Each line contains a maximum of  printable characters.
+* The total number of characters in all test cases will not exceed .
 Output Format
 For each line, print the content enclosed within valid tags.
 If a line contains multiple instances of valid content, print out each instance of valid content on a new line; if no valid content is found, print None.
@@ -31,6 +31,6 @@ Nisum is hiring Java developer.
 The Java developer should always follow best coding practices.
 
 Acceptance Criteria:
-•	The output must asserted using JUnits.
-•	The developer should follow best coding practices (Javadoc, naming conventions, indentation)
+* The output must asserted using JUnits.
+* The developer should follow best coding practices (Javadoc, naming conventions, indentation)
 
