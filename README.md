@@ -34,5 +34,9 @@ The Java developer should always follow best coding practices.
 * The output must asserted using JUnits.
 * The developer should follow best coding practices (Javadoc, naming conventions, indentation)
 
+
+## Program Links
+
 [Main Class](https://github.com/ravi-suroshe/CodingTest/blob/main/src/main/java/com/nisum/XmlTagReader.java)
+[Test Class](https://github.com/ravi-suroshe/CodingTest/blob/main/src/test/java/XmlTagReaderTest.java)
 
