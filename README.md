@@ -23,7 +23,7 @@ Sample Input String
 <Nisum>Nisum is hiring Java developer.</Nisum>
 <java developer>The Java developer should always follow best coding practices.</java developer>
 ```
-Sample Output
+### Sample Output
 India is my country.
 COVID-19 is not over yet.
 Take care of you and others.
