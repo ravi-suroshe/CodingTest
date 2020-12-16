@@ -24,11 +24,11 @@ If a line contains multiple instances of valid content, print out each instance 
 <java developer>The Java developer should always follow best coding practices.</java developer>
 ```
 #### Sample Output
-India is my country.
-COVID-19 is not over yet.
-Take care of you and others.
-Nisum is hiring Java developer.
-The Java developer should always follow best coding practices.
+India is my country.&nbsp;
+COVID-19 is not over yet.&nbsp;
+Take care of you and others.&nbsp;
+Nisum is hiring Java developer.&nbsp;
+The Java developer should always follow best coding practices.&nbsp;
 
 ## Acceptance Criteria:
 * The output must asserted using JUnits.
