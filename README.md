@@ -2,8 +2,7 @@
 
 Problem Statement:
 
-In a tag-based language like XML or HTML, contents are enclosed between a start tag and an end tag like ```HTML<tag>contents</tag>. 
-Note that the corresponding end tag starts with a /.
+In a tag-based language like XML or HTML, contents are enclosed between a start tag and an end tag like ```HTML<tag>contents</tag>```.Note that the corresponding end tag starts with a /.
 Given a string of text in a tag-based language, parse this text and retrieve the contents enclosed within sequences of well-organized tags meeting the following criterion:
 1.	The name of the start and end tags must be same. The HTML code ```HTML<h1>Hello World</h2> 
 is not valid, because the text starts with an h1 tag and ends with a non-matching h2 tag.
