@@ -16,14 +16,14 @@ The  subsequent lines each contain a line of text.
 Output Format
 For each line, print the content enclosed within valid tags.
 If a line contains multiple instances of valid content, print out each instance of valid content on a new line; if no valid content is found, print None.
-Sample Input String
+#### Sample Input String
 ```HTML<h1>India is my country.</h1>
 <h1><h1>COVID-19 is not over yet.</h1></h1>
 <par>Take care of you and others. </par>
 <Nisum>Nisum is hiring Java developer.</Nisum>
 <java developer>The Java developer should always follow best coding practices.</java developer>
 ```
-### Sample Output
+#### Sample Output
 India is my country.
 COVID-19 is not over yet.
 Take care of you and others.
