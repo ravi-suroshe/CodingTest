@@ -37,6 +37,6 @@ The Java developer should always follow best coding practices.
 
 ## Program Links
 
-[Main Class](https://github.com/ravi-suroshe/CodingTest/blob/main/src/main/java/com/nisum/XmlTagReader.java)
-[Test Class](https://github.com/ravi-suroshe/CodingTest/blob/main/src/test/java/XmlTagReaderTest.java)
+* [Main Class](https://github.com/ravi-suroshe/CodingTest/blob/main/src/main/java/com/nisum/XmlTagReader.java)  
+* [Test Class](https://github.com/ravi-suroshe/CodingTest/blob/main/src/test/java/XmlTagReaderTest.java)
 
