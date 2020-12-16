@@ -50,10 +50,10 @@ public class XmlTagReader {
 	 */
 	public static void main(String[] args) {
 		
-		 	Scanner in = new Scanner(System.in); 
-		 	XmlTagReader reader = new XmlTagReader();
+		 Scanner in = new Scanner(System.in); 
+		 XmlTagReader reader = new XmlTagReader();
 		 	
-		 	//Enter Number of lines
+		 //Enter Number of lines
 	        int numberOfLines = in.nextInt(); 
 	       	        
 	        List<String> tags = new ArrayList<String>();
@@ -61,8 +61,8 @@ public class XmlTagReader {
 	        	//Enter Line
 	        	String line = in.nextLine(); 
 	 	        tags.addAll(Arrays.asList(reader.readXmlTagContent(line)));
-				--numberOfLines;
-			}
+			--numberOfLines;
+		}
 		  
 	       //Print Tag Content on Console
 	       for (String tag : tags) {
