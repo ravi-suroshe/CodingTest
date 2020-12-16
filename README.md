@@ -1,6 +1,6 @@
 # Nisum Coding Test
 
-Problem Statement:
+## Problem Statement:
 
 In a tag-based language like XML or HTML, contents are enclosed between a start tag and an end tag like ```HTML<tag>contents</tag>```.Note that the corresponding end tag starts with a /.
 Given a string of text in a tag-based language, parse this text and retrieve the contents enclosed within sequences of well-organized tags meeting the following criterion:
@@ -30,7 +30,7 @@ Take care of you and others.
 Nisum is hiring Java developer.
 The Java developer should always follow best coding practices.
 
-Acceptance Criteria:
+## Acceptance Criteria:
 * The output must asserted using JUnits.
 * The developer should follow best coding practices (Javadoc, naming conventions, indentation)
 
